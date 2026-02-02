@@ -1,4 +1,4 @@
-# Excel-with-A.I-Certificate 
+ # Excel-with-A.I-Certificate 
 Key AI Features in Excel
 Microsoft 365 Copilot: Acts as an AI assistant to analyze data, create charts, and format tables via a chat pane.
 Analyze Data: A built-in feature that answers questions about datasets, creates visualizations, and finds trends using natural language queries.
