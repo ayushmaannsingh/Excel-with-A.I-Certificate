@@ -1,3 +1,5 @@
+
+  
   # Excel-with-A.I-Certificate 
 Key AI Features in Excel
 Microsoft 365 Copilot: Acts as an AI assistant to analyze data, create charts, and format tables via a chat pane.
